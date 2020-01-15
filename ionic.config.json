@@ -1,5 +1,7 @@
 {
   "name": "base64-gallery",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
